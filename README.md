@@ -44,3 +44,6 @@ sales-analytics-powerbi/
     ├── Dashboard_Analysis.png
     ├── Dashboard_Interactive_Filters.png
     └── Sales_Analytics_Dashboard.png
+## 📊 Dashboard Preview
+
+![Sales Analytics Dashboard](Screenshots/Sales_Analytics_Dashboard.png)
